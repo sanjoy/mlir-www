@@ -1,0 +1,29 @@
+<map id="lib/Dialect/SCF/Transforms/AffineCanonicalizationUtils.cpp" name="lib/Dialect/SCF/Transforms/AffineCanonicalizationUtils.cpp">
+<area shape="rect" id="node2" href="$AffineCanonicalizationUtils_8h.html" title="mlir/Dialect/SCF/AffineCanonicalization\lUtils.h" alt="" coords="729,95,1005,136"/>
+<area shape="rect" id="node7" href="$AffineStructures_8h.html" title="mlir/Dialect/Affine\l/Analysis/AffineStructures.h" alt="" coords="584,184,785,225"/>
+<area shape="rect" id="node25" href="$AffineOps_8h.html" title="mlir/Dialect/Affine\l/IR/AffineOps.h" alt="" coords="1393,95,1533,136"/>
+<area shape="rect" id="node27" href="$IR_2AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="961,281,1107,307"/>
+<area shape="rect" id="node39" href="$Dialect_2SCF_2SCF_8h.html" title="mlir/Dialect/SCF/SCF.h" alt="" coords="2576,191,2740,218"/>
+<area shape="rect" id="node43" href="$StaticValueUtils_8h.html" title="mlir/Dialect/Utils\l/StaticValueUtils.h" alt="" coords="1363,363,1505,404"/>
+<area shape="rect" id="node45" href="$Matchers_8h.html" title="mlir/IR/Matchers.h" alt="" coords="1812,191,1952,218"/>
+<area shape="rect" id="node46" href="$PatternMatch_8h.html" title="mlir/IR/PatternMatch.h" alt="" coords="3471,191,3637,218"/>
+<area shape="rect" id="node3" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="715,452,865,479"/>
+<area shape="rect" id="node8" href="$IntegerPolyhedron_8h.html" title="mlir/Analysis/Presburger\l/IntegerPolyhedron.h" alt="" coords="421,273,602,315"/>
+<area shape="rect" id="node9" href="$Matrix_8h.html" title="mlir/Analysis/Presburger\l/Matrix.h" alt="" coords="166,363,347,404"/>
+<area shape="rect" id="node14" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="577,370,781,397"/>
+<area shape="rect" id="node16" href="$IR_2AffineExpr_8h.html" title="mlir/IR/AffineExpr.h" alt="" coords="958,370,1105,397"/>
+<area shape="rect" id="node21" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="1930,452,2093,479"/>
+<area shape="rect" id="node13" href="$Analysis_2Presburger_2Utils_8h.html" title="mlir/Analysis/Presburger\l/Utils.h" alt="" coords="371,363,553,404"/>
+<area shape="rect" id="node22" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="1789,534,1916,561"/>
+<area shape="rect" id="node23" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="1940,534,2085,561"/>
+<area shape="rect" id="node26" href="$AffineMemoryOpInterfaces_8h.html" title="mlir/Dialect/Affine\l/IR/AffineMemoryOpInterfaces.h" alt="" coords="1558,184,1787,225"/>
+<area shape="rect" id="node31" href="$Ops_8h.html" title="mlir/Dialect/StandardOps\l/IR/Ops.h" alt="" coords="1976,184,2161,225"/>
+<area shape="rect" id="node36" href="$LoopLikeInterface_8h.html" title="mlir/Interfaces/LoopLike\lInterface.h" alt="" coords="2391,273,2570,315"/>
+<area shape="rect" id="node29" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="1638,281,1798,307"/>
+<area shape="rect" id="node32" href="$Arithmetic_8h.html" title="mlir/Dialect/Arithmetic\l/IR/Arithmetic.h" alt="" coords="1923,273,2094,315"/>
+<area shape="rect" id="node33" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="2097,363,2283,404"/>
+<area shape="rect" id="node34" href="$Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="2696,281,2831,307"/>
+<area shape="rect" id="node35" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="2168,273,2367,315"/>
+<area shape="rect" id="node40" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="3369,370,3515,397"/>
+<area shape="rect" id="node47" href="$BuiltinOps_8h.html" title="mlir/IR/BuiltinOps.h" alt="" coords="3480,281,3628,307"/>
+</map>

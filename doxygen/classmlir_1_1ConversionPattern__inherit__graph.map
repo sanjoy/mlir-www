@@ -1,0 +1,34 @@
+<map id="mlir::ConversionPattern" name="mlir::ConversionPattern">
+<area shape="rect" id="node4" href="$classmlir_1_1ConvertToLLVMPattern.html" title="Base class for operation conversions targeting the LLVM IR dialect. " alt="" coords="584,487,784,514"/>
+<area shape="rect" id="node23" href="$classmlir_1_1OpConversionPattern.html" title="OpConversionPattern is a wrapper around ConversionPattern that allows for matching and rewriting agai..." alt="" coords="587,142,781,184"/>
+<area shape="rect" id="node24" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; Op \&gt;" alt="" coords="981,82,1175,124"/>
+<area shape="rect" id="node26" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; AssertOp \&gt;" alt="" coords="981,17,1175,58"/>
+<area shape="rect" id="node27" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; OpTy \&gt;" alt="" coords="981,149,1175,190"/>
+<area shape="rect" id="node29" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; SPIRVOp \&gt;" alt="" coords="981,218,1175,260"/>
+<area shape="rect" id="node31" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; async::YieldOp \&gt;" alt="" coords="981,292,1175,333"/>
+<area shape="rect" id="node33" href="$classmlir_1_1OpInterfaceConversionPattern.html" title="OpInterfaceConversionPattern is a wrapper around ConversionPattern that allows for matching and rewri..." alt="" coords="581,538,787,580"/>
+<area shape="rect" id="node2" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="157,255,308,282"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,255,108,282"/>
+<area shape="rect" id="node5" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title="mlir::ConvertOpToLLVMPattern\l\&lt; AssertOp \&gt;" alt="" coords="1440,353,1659,394"/>
+<area shape="rect" id="node7" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title="mlir::ConvertOpToLLVMPattern\l\&lt; gpu::GPUFuncOp \&gt;" alt="" coords="1440,421,1659,462"/>
+<area shape="rect" id="node9" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title="mlir::ConvertOpToLLVMPattern\l\&lt; gpu::PrintfOp \&gt;" alt="" coords="1440,568,1659,609"/>
+<area shape="rect" id="node12" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title="mlir::ConvertOpToLLVMPattern\l\&lt; gpu::ReturnOp \&gt;" alt="" coords="1440,925,1659,966"/>
+<area shape="rect" id="node14" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title="mlir::ConvertOpToLLVMPattern\l\&lt; memref::TransposeOp \&gt;" alt="" coords="1440,492,1659,533"/>
+<area shape="rect" id="node16" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title="mlir::ConvertOpToLLVMPattern\l\&lt; Op \&gt;" alt="" coords="1440,781,1659,822"/>
+<area shape="rect" id="node18" href="$structmlir_1_1AllocLikeOpLLVMLowering.html" title="Lowering for AllocOp and AllocaOp. " alt="" coords="965,512,1191,539"/>
+<area shape="rect" id="node19" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title="Utility class for operation conversions targeting the LLVM dialect that match exactly one source oper..." alt="" coords="969,652,1187,693"/>
+<area shape="rect" id="node6" href="$classAssertOpLowering.html" title="AssertOpLowering" alt="" coords="1778,194,1918,220"/>
+<area shape="rect" id="node8" href="$structmlir_1_1GPUFuncOpLowering.html" title="mlir::GPUFuncOpLowering" alt="" coords="1753,428,1943,455"/>
+<area shape="rect" id="node10" href="$structmlir_1_1GPUPrintfOpToHIPLowering.html" title="The lowering of gpu.printf to a call to HIP hostcalls. " alt="" coords="1732,619,1964,646"/>
+<area shape="rect" id="node11" href="$structmlir_1_1GPUPrintfOpToLLVMCallLowering.html" title="The lowering of gpu.printf to a call to an external printf() function. " alt="" coords="1743,553,1953,594"/>
+<area shape="rect" id="node13" href="$structmlir_1_1GPUReturnOpLowering.html" title="mlir::GPUReturnOpLowering" alt="" coords="1747,932,1949,959"/>
+<area shape="rect" id="node15" href="$classTransposeOpLowering.html" title="Rewrite avx2&#45;specific 2&#45;D vector.transpose, for the supported cases and depending on the TransposeLow..." alt="" coords="1766,499,1930,526"/>
+<area shape="rect" id="node17" href="$structmlir_1_1GPUIndexIntrinsicOpLowering.html" title="mlir::GPUIndexIntrinsicOp\lLowering\&lt; Op, XOp, YOp, ZOp \&gt;" alt="" coords="1733,781,1963,822"/>
+<area shape="rect" id="node20" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title="Generic implementation of one&#45;to&#45;one conversion from &quot;SourceOp&quot; to &quot;TargetOp&quot; where the latter belong..." alt="" coords="1416,644,1683,685"/>
+<area shape="rect" id="node21" href="$structmlir_1_1OpToFuncCallLowering.html" title="Rewriting that replace SourceOp with a CallOp to f32Func or f64Func depending on the element type tha..." alt="" coords="1449,709,1650,750"/>
+<area shape="rect" id="node22" href="$classmlir_1_1VectorConvertToLLVMPattern.html" title="Basic lowering implementation to rewrite Ops with just one result to the LLVM Dialect. " alt="" coords="1429,860,1670,901"/>
+<area shape="rect" id="node25" href="$classmlir_1_1spirv_1_1ElementwiseOpPattern.html" title="Converts elementwise unary, binary and ternary standard operations to SPIR&#45;V operations. " alt="" coords="1451,82,1648,124"/>
+<area shape="rect" id="node28" href="$classForwardOperands.html" title="ForwardOperands\&lt; OpTy \&gt;" alt="" coords="1450,156,1649,183"/>
+<area shape="rect" id="node30" href="$classmlir_1_1SPIRVToLLVMConversion.html" title="mlir::SPIRVToLLVMConversion\l\&lt; SPIRVOp \&gt;" alt="" coords="1443,218,1656,260"/>
+<area shape="rect" id="node32" href="$classYieldOpLowering.html" title="YieldOpLowering" alt="" coords="1484,299,1615,326"/>
+</map>

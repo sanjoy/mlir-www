@@ -1,0 +1,32 @@
+<map id="include/mlir/Analysis/Presburger/Matrix.h" name="include/mlir/Analysis/Presburger/Matrix.h">
+<area shape="rect" id="node2" href="$IntegerPolyhedron_8h.html" title="include/mlir/Analysis\l/Presburger/IntegerPolyhedron.h" alt="" coords="473,95,703,136"/>
+<area shape="rect" id="node3" href="$LinearTransform_8h.html" title="include/mlir/Analysis\l/Presburger/LinearTransform.h" alt="" coords="81,184,298,225"/>
+<area shape="rect" id="node10" href="$Simplex_8h.html" title="include/mlir/Analysis\l/Presburger/Simplex.h" alt="" coords="795,184,960,225"/>
+<area shape="rect" id="node11" href="$Simplex_8cpp.html" title="lib/Analysis/Presburger\l/Simplex.cpp" alt="" coords="921,273,1092,315"/>
+<area shape="rect" id="node12" href="$AffineStructures_8h.html" title="include/mlir/Dialect\l/Affine/Analysis/AffineStructures.h" alt="" coords="1812,184,2055,225"/>
+<area shape="rect" id="node31" href="$Matrix_8cpp.html" title="lib/Analysis/Presburger\l/Matrix.cpp" alt="" coords="1085,95,1256,136"/>
+<area shape="rect" id="node4" href="$IntegerPolyhedron_8cpp.html" title="lib/Analysis/Presburger\l/IntegerPolyhedron.cpp" alt="" coords="239,273,411,315"/>
+<area shape="rect" id="node5" href="$LinearTransform_8cpp.html" title="lib/Analysis/Presburger\l/LinearTransform.cpp" alt="" coords="5,273,176,315"/>
+<area shape="rect" id="node7" href="$PresburgerSet_8h.html" title="include/mlir/Analysis\l/Presburger/PresburgerSet.h" alt="" coords="568,184,771,225"/>
+<area shape="rect" id="node30" href="$Analysis_2Presburger_2Utils_8cpp.html" title="lib/Analysis/Presburger\l/Utils.cpp" alt="" coords="373,184,544,225"/>
+<area shape="rect" id="node6" href="$AffineStructures_8cpp.html" title="lib/Dialect/Affine\l/Analysis/AffineStructures.cpp" alt="" coords="681,273,897,315"/>
+<area shape="rect" id="node8" href="$PresburgerSet_8cpp.html" title="lib/Analysis/Presburger\l/PresburgerSet.cpp" alt="" coords="487,273,657,315"/>
+<area shape="rect" id="node9" href="$Dialect_2Affine_2Analysis_2Utils_8cpp.html" title="lib/Dialect/Affine\l/Analysis/Utils.cpp" alt="" coords="774,370,917,411"/>
+<area shape="rect" id="node13" href="$Dialect_2Affine_2Analysis_2Utils_8h.html" title="include/mlir/Dialect\l/Affine/Analysis/Utils.h" alt="" coords="2323,273,2493,315"/>
+<area shape="rect" id="node16" href="$AffineLoopInvariantCodeMotion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineLoopInvariant\lCodeMotion.cpp" alt="" coords="1208,363,1437,419"/>
+<area shape="rect" id="node17" href="$AffineParallelize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineParallelize.cpp" alt="" coords="1461,370,1696,411"/>
+<area shape="rect" id="node18" href="$LoopFusion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopFusion.cpp" alt="" coords="1721,370,1922,411"/>
+<area shape="rect" id="node19" href="$LoopTiling_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopTiling.cpp" alt="" coords="3239,370,3435,411"/>
+<area shape="rect" id="node22" href="$LoopFusionUtils_8cpp.html" title="lib/Dialect/Affine\l/Utils/LoopFusionUtils.cpp" alt="" coords="3460,370,3649,411"/>
+<area shape="rect" id="node25" href="$LoopAnalysis_8cpp.html" title="lib/Dialect/Affine\l/Analysis/LoopAnalysis.cpp" alt="" coords="1117,273,1315,315"/>
+<area shape="rect" id="node26" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="1339,273,1522,315"/>
+<area shape="rect" id="node27" href="$Dialect_2Linalg_2Utils_2Utils_8cpp.html" title="lib/Dialect/Linalg\l/Utils/Utils.cpp" alt="" coords="1547,273,1677,315"/>
+<area shape="rect" id="node28" href="$AffineCanonicalizationUtils_8cpp.html" title="lib/Dialect/SCF/Transforms\l/AffineCanonicalizationUtils.cpp" alt="" coords="1701,273,1931,315"/>
+<area shape="rect" id="node29" href="$LoopSpecialization_8cpp.html" title="lib/Dialect/SCF/Transforms\l/LoopSpecialization.cpp" alt="" coords="1955,273,2147,315"/>
+<area shape="rect" id="node14" href="$AffineAnalysis_8cpp.html" title="lib/Dialect/Affine\l/Analysis/AffineAnalysis.cpp" alt="" coords="1947,370,2152,411"/>
+<area shape="rect" id="node15" href="$AffineDataCopyGeneration_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineDataCopy\lGeneration.cpp" alt="" coords="2177,363,2381,419"/>
+<area shape="rect" id="node20" href="$PipelineDataTransfer_8cpp.html" title="lib/Dialect/Affine\l/Transforms/PipelineDataTransfer.cpp" alt="" coords="2405,370,2667,411"/>
+<area shape="rect" id="node21" href="$SimplifyAffineStructures_8cpp.html" title="lib/Dialect/Affine\l/Transforms/SimplifyAffine\lStructures.cpp" alt="" coords="2692,363,2887,419"/>
+<area shape="rect" id="node23" href="$LoopUtils_8cpp.html" title="lib/Dialect/Affine\l/Utils/LoopUtils.cpp" alt="" coords="2911,370,3059,411"/>
+<area shape="rect" id="node24" href="$Dialect_2Affine_2Utils_2Utils_8cpp.html" title="lib/Dialect/Affine\l/Utils/Utils.cpp" alt="" coords="3084,370,3215,411"/>
+</map>

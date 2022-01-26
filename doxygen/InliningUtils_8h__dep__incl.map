@@ -1,0 +1,17 @@
+<map id="include/mlir/Transforms/InliningUtils.h" name="include/mlir/Transforms/InliningUtils.h">
+<area shape="rect" id="node2" href="$AffineOps_8cpp.html" title="lib/Dialect/Affine\l/IR/AffineOps.cpp" alt="" coords="5,95,139,136"/>
+<area shape="rect" id="node3" href="$ArithmeticDialect_8cpp.html" title="lib/Dialect/Arithmetic\l/IR/ArithmeticDialect.cpp" alt="" coords="163,95,347,136"/>
+<area shape="rect" id="node4" href="$BufferizationDialect_8cpp.html" title="lib/Dialect/Bufferization\l/IR/BufferizationDialect.cpp" alt="" coords="371,95,570,136"/>
+<area shape="rect" id="node5" href="$GPUDialect_8cpp.html" title="lib/Dialect/GPU/IR\l/GPUDialect.cpp" alt="" coords="594,95,731,136"/>
+<area shape="rect" id="node6" href="$LinalgDialect_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgDialect.cpp" alt="" coords="756,95,911,136"/>
+<area shape="rect" id="node7" href="$MathDialect_8cpp.html" title="lib/Dialect/Math/IR\l/MathDialect.cpp" alt="" coords="935,95,1076,136"/>
+<area shape="rect" id="node8" href="$MemRefDialect_8cpp.html" title="lib/Dialect/MemRef\l/IR/MemRefDialect.cpp" alt="" coords="1101,95,1270,136"/>
+<area shape="rect" id="node9" href="$Dialect_2SCF_2SCF_8cpp.html" title="lib/Dialect/SCF/SCF.cpp" alt="" coords="1294,102,1463,129"/>
+<area shape="rect" id="node10" href="$Dialect_2Shape_2IR_2Shape_8cpp.html" title="lib/Dialect/Shape/IR\l/Shape.cpp" alt="" coords="1488,95,1637,136"/>
+<area shape="rect" id="node11" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVDialect.cpp" alt="" coords="1661,95,1808,136"/>
+<area shape="rect" id="node12" href="$Ops_8cpp.html" title="lib/Dialect/StandardOps\l/IR/Ops.cpp" alt="" coords="1833,95,2007,136"/>
+<area shape="rect" id="node13" href="$TensorDialect_8cpp.html" title="lib/Dialect/Tensor\l/IR/TensorDialect.cpp" alt="" coords="2031,95,2190,136"/>
+<area shape="rect" id="node14" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="2215,95,2353,136"/>
+<area shape="rect" id="node15" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="2378,102,2563,129"/>
+<area shape="rect" id="node16" href="$InliningUtils_8cpp.html" title="lib/Transforms/Utils\l/InliningUtils.cpp" alt="" coords="2587,95,2735,136"/>
+</map>

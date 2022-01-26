@@ -1,0 +1,15 @@
+<map id="include/mlir/Dialect/StandardOps/Utils/Utils.h" name="include/mlir/Dialect/StandardOps/Utils/Utils.h">
+<area shape="rect" id="node2" href="$PipelineDataTransfer_8cpp.html" title="lib/Dialect/Affine\l/Transforms/PipelineDataTransfer.cpp" alt="" coords="5,102,268,143"/>
+<area shape="rect" id="node3" href="$LinalgOps_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgOps.cpp" alt="" coords="292,102,427,143"/>
+<area shape="rect" id="node4" href="$Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="451,102,638,143"/>
+<area shape="rect" id="node5" href="$ElementwiseToLinalg_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ElementwiseToLinalg.cpp" alt="" coords="662,102,929,143"/>
+<area shape="rect" id="node6" href="$Loops_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Loops.cpp" alt="" coords="953,102,1120,143"/>
+<area shape="rect" id="node7" href="$Dialect_2Linalg_2Utils_2Utils_8cpp.html" title="lib/Dialect/Linalg\l/Utils/Utils.cpp" alt="" coords="1145,102,1275,143"/>
+<area shape="rect" id="node8" href="$MemRefOps_8cpp.html" title="lib/Dialect/MemRef\l/IR/MemRefOps.cpp" alt="" coords="1300,102,1448,143"/>
+<area shape="rect" id="node9" href="$Ops_8cpp.html" title="lib/Dialect/StandardOps\l/IR/Ops.cpp" alt="" coords="1472,102,1647,143"/>
+<area shape="rect" id="node10" href="$Dialect_2StandardOps_2Utils_2Utils_8cpp.html" title="lib/Dialect/StandardOps\l/Utils/Utils.cpp" alt="" coords="1671,102,1845,143"/>
+<area shape="rect" id="node11" href="$TensorInferTypeOpInterfaceImpl_8cpp.html" title="lib/Dialect/Tensor\l/IR/TensorInferTypeOpInterface\lImpl.cpp" alt="" coords="1870,95,2091,151"/>
+<area shape="rect" id="node12" href="$TensorOps_8cpp.html" title="lib/Dialect/Tensor\l/IR/TensorOps.cpp" alt="" coords="2116,102,2253,143"/>
+<area shape="rect" id="node13" href="$TensorTilingInterfaceImpl_8cpp.html" title="lib/Dialect/Tensor\l/IR/TensorTilingInterfaceImpl.cpp" alt="" coords="2278,102,2513,143"/>
+<area shape="rect" id="node14" href="$VectorOps_8cpp.html" title="lib/Dialect/Vector\l/VectorOps.cpp" alt="" coords="2537,102,2670,143"/>
+</map>
